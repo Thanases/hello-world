@@ -1,6 +1,9 @@
 # hello-world
 
-Hi Humans,
+Hi Humans!
 
-Justin here, i enjoy watching anime and korean drama. My favourite dish would be Humans
-xD. Hope we meet soon.
+Justin here, I like to watch anime and korean drama.
+And my favourite dish would be humans xD.
+Hope we meet soon.
+
+
